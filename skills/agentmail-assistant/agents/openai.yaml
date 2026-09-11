@@ -1,0 +1,4 @@
+interface:
+  display_name: "邮件事务助理"
+  short_description: "按业务资料处理邮件、登记待办，明确问题自动答复，例外事项交使用者确认"
+  default_prompt: "使用 $agentmail-assistant 在 agentmail 项目离线预演教师培训邮件处理流程。"

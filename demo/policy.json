@@ -1,0 +1,17 @@
+{
+  "name": "教师培训报名演示",
+  "mailbox": "lqtrikst@agent.qq.com",
+  "allowed_senders": ["lqtriks@agent.qq.com", "xiaofan1990@agent.qq.com"],
+  "subject_prefix": "[演示]",
+  "duration_minutes": 20,
+  "max_replies": 5,
+  "auto_enabled": true,
+  "knowledge_file": "knowledge.md",
+  "templates": {
+    "receipt": "您好，您的演示报名材料已收到。此回复仅确认收件，报名资格和审核结果尚未确认。",
+    "location": "您好，本次演示培训地点为示例学校教学楼 A 座 302 室。以上为课堂演示用虚构信息，不对应真实活动。",
+    "schedule": "您好，本次演示培训时间为 2026 年 9 月 18 日 14:00—16:00（北京时间）。以上为课堂演示用虚构安排。",
+    "materials": "您好，本次演示报名需提供姓名、任教学科和拟参加场次。请直接以邮件正文提供，无需身份证、电话或学生资料。演示场次为 2026 年 9 月 18 日下午场。以上为虚构演示要求。",
+    "missing_subject": "您好，已记录您来信中的演示报名信息，目前还缺少任教学科，请补充。此回复不代表报名审核通过。"
+  }
+}

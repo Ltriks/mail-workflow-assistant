@@ -1,0 +1,11 @@
+{
+  "name": "真实业务待配置",
+  "mailbox": "lqtrikst@agent.qq.com",
+  "allowed_senders": [],
+  "subject_prefix": "[办公助理]",
+  "duration_minutes": 20,
+  "max_replies": 5,
+  "auto_enabled": false,
+  "knowledge_file": "knowledge.md",
+  "templates": {}
+}

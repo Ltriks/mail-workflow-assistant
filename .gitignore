@@ -1,0 +1,14 @@
+state/
+logs/
+bin/
+service-config.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+.ai/
+__pycache__/
+*.pyc
+.DS_Store
